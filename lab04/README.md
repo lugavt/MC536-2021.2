@@ -3,6 +3,5 @@
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`. Seu notebook deve fazer referência à sua pasta data.
->
+![notebook](https://github.com/lugavt/MC536-2021.2/blob/main/lab04/notebook/lab04-sql-advanced.ipynb][notebook)
 
