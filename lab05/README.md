@@ -1,5 +1,3 @@
-# Modelo para Apresentação do Lab05 - Marcadores e Taxonomia em Cypher
-
 # Aluno
 * `240231`: `Lucca Gazotto Vettori`
 
