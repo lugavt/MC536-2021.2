@@ -9,7 +9,7 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços
 
 ### Resolução
 ~~~cypher
-(escreva aqui a resolução em Cypher)
+MATCH(m:Marcador) MATCH(c:Categoria {id:"Serviços"}) WHERE (m)-[:Pertence]->(c) RETURN m
 ~~~
 
 ## Tarefa 2
