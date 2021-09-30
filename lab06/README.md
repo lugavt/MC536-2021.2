@@ -1,7 +1,7 @@
 # Aluno
 * `240231`: `Lucca Gazotto Vettori`
 
-# Análise do Artigo `<título do artigo>`
+# Análise do Artigo `CandiDATA: um dataset para analise das eleições no Brasil`
 
 | campo | valor |
 |------------|----------------------------------------|
