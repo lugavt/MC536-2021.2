@@ -16,8 +16,8 @@
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset. Algumas perguntas que podem ser feitas com o dataset são apresentadas no artigo, como por exemplo, qual foi a participação de mulheres na política brasileira ao longo do tempo. Em adição, algumas outras questões podem ser levantadas são os partidos políticos que mais elegeram candidatos nas últimas eleições, qual a idade média para os candidatos eleitos nas eleições, qual é a presença de uma ocupação no cenário eleitoral brasileiro ao longo dos anos, qual a diferença entre o padrão dos candidatos eleitos agora e há algumas décadas.
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
+> Algumas iniciativas relacionadas ao trabalho feito são: Camargo et al. (2016),  Filho and Pappa (2015), CEPESP (2020). A primeiro tenta encontrar padrões nos candidatos a vereador no Rio Grande do Sul em 2012. O segundo é o desenvolvimento de uma ferramenta para caracterização demográfica a partir de contas do twitter. Fato interessante sobre esse trabalho é que os autores utilizaram dados do TSE para fazer uma comparação. Já o terceiro, é um trabalho que deseja facilitar o acesso aos dados do TSE.
