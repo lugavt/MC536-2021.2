@@ -5,7 +5,7 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<referência bibliográfica do artigo>` |
+| referência | `VASCONCELOS, F.; TAVARES, J.; RIBEIRO, M.; COUTINHO, F; CLARINDO, J. CandiDATA: um dataset para analise das eleições no Brasil. SBBD-DSW, 2021. Disponível em: <https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view>. Acesso em: 30 de set de 2021.` |
 | link       | `https://drive.google.com/file/d/10hh-MLRk9omaGwdormsXwQa7O7XHXFhT/view` |
 | dataset | `https://github.com/felipeVsc/CandiDATA` |
 | formato | `CSV` |
@@ -16,7 +16,7 @@
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset. Algumas perguntas que podem ser feitas com o dataset são apresentadas no artigo, como por exemplo, qual foi a participação de mulheres na política brasileira ao longo do tempo. Em adição, algumas outras questões podem ser levantadas são os partidos políticos que mais elegeram candidatos nas últimas eleições, qual a idade média para os candidatos eleitos nas eleições, qual é a presença de uma ocupação no cenário eleitoral brasileiro ao longo dos anos, qual a diferença entre o padrão dos candidatos eleitos agora e há algumas décadas.
+> Algumas perguntas que podem ser feitas com o dataset são apresentadas no artigo. Em adição, algumas outras questões podem ser levantadas, como por exemplo: quais são os partidos políticos que mais elegeram candidatos nas últimas eleições; qual a idade média para os candidatos eleitos nas eleições; qual é a presença de uma ocupação no cenário eleitoral brasileiro ao longo dos anos; qual a diferença entre o padrão dos candidatos eleitos agora e há algumas décadas.
 
 ## Trabalhos relacionados
 
