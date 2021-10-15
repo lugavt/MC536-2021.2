@@ -1,15 +1,7 @@
 # Modelo para Apresentação do Lab07 - Modelo Lógico para Banco de Dados de Grafos
 
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa
-~~~
-
 # Aluno
-* `RA`: `<nome completo>`
+* `240231`: `Lucca Gazotto Vettori`
 
 ## Modelo Lógico do Banco de Dados de Grafos
 > Utilize este [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
@@ -20,6 +12,6 @@ Estrutura de pastas:
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * Qual foi o comportamento observado dos índices de mortalidade nos países quando há alteração em seu IDH(HDI) ao longo dos anos? 
+> * Como se relacionam alguns índices de mortalidade com o clima dos países.
+> * Os países com os maiores índices de mortalidade são os mesmos com menor índice de saneamento?
